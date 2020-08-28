@@ -21,9 +21,10 @@ body {
 	font-size: 48px;
 	color: #ffffff;
 }
+/*Horiseon header styled with purple*/
 
-.header .SEO {
-	color: #a7b19e;
+.header h1 #seo {
+	color: #611380;
 }
 
 .header div {
@@ -134,6 +135,7 @@ p {
 	font-size: 36px;
 }
 /*Footer of webpage*/
+
 .footer {
 	padding: 30px;
 	clear: both;
