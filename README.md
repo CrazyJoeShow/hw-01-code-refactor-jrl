@@ -11,3 +11,7 @@
 # The content has changed too much other than a couple small details with the Head of the page, and the HTML behind has been cleaned up and consolidated to a degree. No major changes have been made, other than the condensing of all the redundant CSS.
 
 # Also you will find in the code I have added notes in the HTML as well as the CSS file to hopefully in the future have faster fixes and and updates as well as letting you the client see what is in the code and how it correlates to your website.
+
+# Help was lended by numerous cohort members in particular Eduardo Pineda and Pod2.
+
+# W3schools.com was visited throughout the process as well as Github and a few reddit forums just looking for connections to help spark how this is all working in my brain.
